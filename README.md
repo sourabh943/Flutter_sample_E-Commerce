@@ -3,6 +3,10 @@ This repository contains a sample E-Commerce mobile application developed using 
 You can Download it from <a href="https://drive.google.com/file/d/1a7Dle4S8AjJfmlbAeIwhK4kGcWD0hr-i/view?usp=sharing">Here</a>.
 
 ### Screenshot
+<img src="first.jpg">
+<img src="second.jpg">
+<img src="third.jpg">
+
 ### Features
 - Product Listings: Browse through a variety of products available in different categories.
 - Product Details: View detailed information about each product including images, descriptions, prices, and ratings.
